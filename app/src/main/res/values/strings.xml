@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">锦鲤.</string>
+    <string name="app_url">sharesdk</string>
+    <string name="news">新闻</string>
+    <string name="joke">笑话</string>
+    <string name="pic">图片</string>
+    <string name="person">我</string>
+    <string name="hint_login_username">请输入手机/邮箱</string>
+    <string name="hint_login_password">输入密码</string>
+    <string name="login">登录</string>
+    <string name="login_forget_pwd">忘记密码</string>
+    <string name="please_input_limit_pwd">请输入数字或字母</string>
+    <string name="newaccount">注册新用户</string>
+    <string name="submit">提交</string>
+    <string name="update_userinfo_success">更新用户信息成功..</string>
+    <string name="update_userinfo_failed">更新用户信息失败..</string>
+    <string name="checkinfo">请完善好你的信息..</string>
+    <string name="select_sex">请选择性别..</string>
+    <string name="select_age">请选择年龄..</string>
+    <string name="select_city">请选择城市..</string>
+    <string name="select_pic_failed">选择图片失败..</string>
+    <string name="upload_failed">上传文件失败..</string>
+    <string name="upload_photo_success">上传成功..</string>
+    <string name="auto_login_failed">自动登录失败..</string>
+    <string name="auto_login_third_failed">第三方自动登录失败..</string>
+    <string name="collection">收藏..</string>
+    <string name="loding">努力加载中...</string>
+
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@mipmap/psbe"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <com.makeramen.roundedimageview.RoundedImageView
+            android:id="@+id/img_photo"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            app:riv_oval="true"
+            app:riv_border_color="#08a2f2"
+            android:layout_margin="8dp"
+            android:src="@mipmap/icon_appi"
+            android:visibility="gone"/>
+
+        <Button
+            android:id="@+id/tv_log"
+            style="@style/Base.Widget.AppCompat.Button.Colored"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="登录" />
+
+        <TextView
+            android:id="@+id/tv_uname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="8dp"
+            android:text="无从念起"
+            android:textColor="@color/white"
+            android:visibility="gone" />
+
+    </LinearLayout>
+</merge>

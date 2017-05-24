@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#48cfad</color>
+    <color name="colorPrimaryDark">#37bc9b</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="color_ffffff">#ffffff</color>
+    <color name="color_c61a04">#e40078cd</color>
+    <color name="color_cccccc">#cccccc</color>
+    <color name="color_d81e06">#e4004bcd</color>
+    <color name="color_b0b8b2">#b0b8b2</color>
+    <color name="color_hui">#ff888888</color>
+
+    <color name="ivory">#FFFFF0</color><!--象牙色 -->
+    <color name="red">#FF0000</color><!--红色 -->
+    <color name="salmon">#FA8072</color><!--鲜肉色 -->
+    <color name="lightcoral">#F08080</color><!--亮珊瑚色 -->
+    <color name="violet">#EE82EE</color><!--紫罗兰色 -->
+    <color name="plum">#DDA0DD</color><!--洋李色 -->
+    <color name="crimson">#DC143C</color><!--暗深红色 -->
+    <color name="palevioletred">#DB7093</color><!--苍紫罗兰色 -->
+    <color name="orchid">#DA70D6</color><!--淡紫色 -->
+    <color name="mediumvioletred">#C71585</color><!--中紫罗兰色 -->
+    <color name="mediumorchid">#BA55D3</color><!--中粉紫色 -->
+    <color name="darkorchid">#9932CC</color><!--暗紫色 -->
+    <color name="darkviolet">#9400D3</color><!--暗紫罗兰色 -->
+    <color name="mediumpurple">#9370DB</color><!--中紫色 -->
+    <color name="lightgreen">#90EE90</color><!--亮绿色 -->
+    <color name="mediumslateblue">#7B68EE</color><!--中暗蓝色 -->
+    <color name="mediumaquamarine">#66CDAA</color><!--中绿色 -->
+    <color name="cornflowerblue">#6495ED</color><!--菊兰色 -->
+    <color name="mediumseagreen">#3CB371</color><!--中海蓝 -->
+    <color name="teal">#008080</color><!--水鸭色 -->
+</resources>
